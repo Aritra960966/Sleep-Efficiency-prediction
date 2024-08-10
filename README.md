@@ -32,10 +32,7 @@ The dataset was also analyzed using clustering techniques and visualized to unco
 
 To run this project locally, follow these steps:
 
- **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Aritra960966/sleep-efficiency-prediction.git
-
+ 
 
 # Sleep Quality Analysis and Recommendations
 
@@ -66,3 +63,6 @@ Thank you for taking the time to review this analysis. Your commitment to improv
 *Best regards,  
 Aritra Banerjee*
 
+**Clone the Repository:**
+   ```bash
+   git clone https://github.com/Aritra960966/sleep-efficiency-prediction.git
